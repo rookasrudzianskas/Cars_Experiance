@@ -1,0 +1,21 @@
+/*common styles*/
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: "Special Elite", cursive;
+  font-weight: 400;
+}
+
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #ccc;
+}
