@@ -129,3 +129,19 @@ section.change {
   text-align: center;
   text-shadow: 0.3rem 0.3rem 0.5rem #555;
 }
+
+.section-1 {
+  flex-direction: column;
+  background: url("../img/bg-section1.jpg") center no-repeat;
+  background-size: cover;
+}
+
+.section-1 .section-1-heading {
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+  text-shadow: 1rem 1rem 1rem #000, 2rem 2rem 2rem #111, 3rem 3rem 3rem #222;
+}
+
+.section-1-img {
+  width: 70%;
+}
