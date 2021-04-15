@@ -135,7 +135,7 @@ section.change {
 /* Section-1 */
 .section-1 {
   flex-direction: column;
-  background: url(img/bg-section1.jpg) center no-repeat;
+  background: url(bg-section1.jpg) center no-repeat;
   background-size: cover;
 }
 
